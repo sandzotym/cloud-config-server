@@ -16,5 +16,3 @@ microservice:
     endpoints:
       endpoint:
         uri: http://ORDER-SERVICE/order/bookOrder
-        
-test: http://PAYMENT-SERVICE/payment/doPayment
